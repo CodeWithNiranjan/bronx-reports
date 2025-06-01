@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bronx-reports/static/css/main.687c40a5.css",
-    "main.js": "/bronx-reports/static/js/main.900fb262.js",
+    "main.js": "/bronx-reports/static/js/main.ccb30685.js",
     "index.html": "/bronx-reports/index.html",
     "main.687c40a5.css.map": "/bronx-reports/static/css/main.687c40a5.css.map",
-    "main.900fb262.js.map": "/bronx-reports/static/js/main.900fb262.js.map"
+    "main.ccb30685.js.map": "/bronx-reports/static/js/main.ccb30685.js.map"
   },
   "entrypoints": [
     "static/css/main.687c40a5.css",
-    "static/js/main.900fb262.js"
+    "static/js/main.ccb30685.js"
   ]
 }
